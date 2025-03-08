@@ -35,7 +35,7 @@ A minimalist, responsive, and feature-rich To-Do List web application built with
 
 Test the application instantly via GitHub Pages!
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://github.com/ramazancetinkaya/simple-todolist)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://ramazancetinkaya.github.io/simple-todolist/)
 
 ## Screenshot
 
