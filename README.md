@@ -7,6 +7,12 @@
 
 A minimalist, responsive, and feature-rich To-Do List web application built with HTML, CSS, and Vanilla JavaScript. This application includes input validation, dynamic priority management, undo functionality for deletions, and a modern, clean UI that works seamlessly on all devices.
 
+### 🌟 Star this Repository!
+
+Hi there! We're thrilled that you stopped by to check out our project. This repository is a labor of love, built with passion, creativity, and plenty of late-night coding sessions. We truly believe in what we're creating, and we hope you'll enjoy using it as much as we enjoyed building it.
+
+If our project adds value to your day or if you’re simply a fan of cool, open-source software, please consider giving it a star ⭐. Your support inspires us to keep pushing forward!
+
 ---
 
 ## Table of Contents
