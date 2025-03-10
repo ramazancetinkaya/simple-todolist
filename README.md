@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ramazancetinkaya/simple-todolist)](https://github.com/ramazancetinkaya/simple-todolist/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ramazancetinkaya/simple-todolist)](https://github.com/ramazancetinkaya/simple-todolist/network)
 
-A minimalist, responsive, and feature-rich To-Do List web application built with HTML, CSS, and Vanilla JavaScript. This application includes input validation, dynamic priority management, undo functionality for deletions, and a modern, clean UI that works seamlessly on all devices.
+A **minimalist**, **responsive**, and **feature-rich** To-Do List web application built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
 ### 🌟 Star this Repository!
 
@@ -39,7 +39,7 @@ If our project adds value to your day or if you’re simply a fan of cool, open-
 
 ## Demo
 
-Test the application instantly via GitHub Pages!
+Experience the application instantly via GitHub Pages:
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://ramazancetinkaya.github.io/simple-todolist/)
 
@@ -58,7 +58,7 @@ There are two methods to get this project up and running on your local machine.
 ### Prerequisites
 
 - A modern web browser (Chrome, Edge, Firefox, Safari, etc.)
-- Download [Git](https://git-scm.com/) (optional, if you want to clone the repository)
+- Download [Git](https://git-scm.com/) *(optional, if you choose to clone the repository)*
 
 ### 1. Clone the Repository
 
@@ -88,6 +88,8 @@ If you prefer not to use Git, you can download the project as a ZIP file:
 4. Once the ZIP file is downloaded, extract it to your desired location.
 
 ## Usage
+
+Follow these steps to get started:
 
 1. **Open the Project:**  
    Navigate to the project folder and open `index.html` in your preferred web browser.
